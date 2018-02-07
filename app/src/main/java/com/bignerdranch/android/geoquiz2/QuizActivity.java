@@ -11,6 +11,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 //This is the controller.
+//Testing the commit.
 
 import java.lang.annotation.Documented;
 
